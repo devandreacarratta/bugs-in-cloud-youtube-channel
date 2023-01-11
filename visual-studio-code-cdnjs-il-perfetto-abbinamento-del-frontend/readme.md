@@ -45,5 +45,5 @@ Logitech Litra Glow Luce LED: https://amzn.to/3UoaCZO
 ### Link Utili
 - [AndreaCarratta@Linkedin](https://links.devandreacarratta.it/linkedin)
 - [AndreaCarratta@YouTube](https://links.devandreacarratta.it/youtube)
-### Last Update
-2023-01-08 11:04:53 UTC
+
+

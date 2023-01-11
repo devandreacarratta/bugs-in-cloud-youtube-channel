@@ -8,6 +8,7 @@
 - [Azure SQL Server - Mantieni i tuoi dati sotto chiave con la configurazione del firewall](https://www.youtube.com/watch?v=xdTwrayAbso) - 2022-09-27
 - [Azure SQL Server - Creazione Database](https://www.youtube.com/watch?v=Gqsyk2EcQeA) - 2022-09-20
 # Developer Life
+- [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-10
 - [Visual Studio Code & CDNJS: il perfetto abbinamento del frontend!](https://www.youtube.com/watch?v=JQ1KDx8I-_w) - 2022-12-13
 - [Visual Studio Code:  come trasformare un JSON in TYPESCRIPT - Facile e veloce!](https://www.youtube.com/watch?v=Kpk_6uPayGE) - 2022-11-29
 - [GitHub: Importazione del repository da Azure DevOps in meno di 2 minuti!](https://www.youtube.com/watch?v=Owu4QknmCn8) - 2022-11-17
@@ -27,4 +28,4 @@
 - [Amazon Lightsail - Ottieni la tua password WordPress giusta la prima volta ( Parte 2 ) [ AWS ]](https://www.youtube.com/watch?v=rvlN76UDpSM) - 2022-09-14
 - [Amazon Lightsail - Il modo più semplice per installare WordPress! ( Parte 1 ) [ AWS ]](https://www.youtube.com/watch?v=c-FlCzGBpx0) - 2022-09-07
 ### Last Update
-2023-01-08 11:04:53 UTC
+2023-01-11 07:49:10 UTC

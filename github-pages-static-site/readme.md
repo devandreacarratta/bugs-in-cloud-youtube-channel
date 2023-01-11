@@ -1,12 +1,12 @@
-# Visual Studio Code: Trasforma i tuoi JSON in codice sorgente
+# GitHub Pages & Static Site
  
 <hr />
  
 <div align="center">
 
-<a href="https://www.youtube.com/v/WpP2MLDa-_I?version=3" target="_blank" alt="Visual Studio Code: Trasforma i tuoi JSON in codice sorgente">
+<a href="https://www.youtube.com/v/jytEtjRNBsI?version=3" target="_blank" alt="GitHub Pages & Static Site">
 
-<img src="https://img.youtube.com/vi/WpP2MLDa-_I/0.jpg" />
+<img src="https://img.youtube.com/vi/jytEtjRNBsI/0.jpg" />
 
 </a>
 
@@ -14,10 +14,9 @@
  
 <hr />
  
-Ti sei mai chiesto come trasformare un JSON in codice sorgenze senza diventare matti? Personalmente utilizzo con soddisfazione Visual Studio Code. Ti spiegherò tutto nel corso del video!
+GitHub è un ottimo strumento per gli sviluppatori per ospitare i propri sorgenti e magari condividerli con altri sviluppatori. Quello che non tutti sanno è la possibilità  di utilizzare GitHub Pages per creare e pubblicare siti statici da zero.
 
-## Link Utili
-VS Code: https://code.visualstudio.com/
+Sei pronto? Premi play e -se ancora non l'hai fatto- iscriviti al canale per non perdere i prossimi video!
 
 ## Follow Me
 
