@@ -8,6 +8,7 @@
 - [Azure SQL Server - Mantieni i tuoi dati sotto chiave con la configurazione del firewall](https://www.youtube.com/watch?v=xdTwrayAbso) - 2022-09-27
 - [Azure SQL Server - Creazione Database](https://www.youtube.com/watch?v=Gqsyk2EcQeA) - 2022-09-20
 # Developer Life
+- [GitHub e Webhook: monitora il tuo repository con facilità!](https://www.youtube.com/watch?v=-Z2w8tCIJ4A) - 2023-01-30
 - [GitHub: la shortcut per dev per semplificare la tua vita](https://www.youtube.com/watch?v=w02697ngTAk) - 2023-01-25
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 - [Visual Studio Code & CDNJS: il perfetto abbinamento del frontend!](https://www.youtube.com/watch?v=JQ1KDx8I-_w) - 2022-12-13
@@ -22,6 +23,7 @@
 - [CRON gratuiti (o quasi) sfruttando le GitHub Actions? Ecco come!](https://www.youtube.com/watch?v=1N3KpQDqYAU) - 2022-10-17
 - [Github - Guida rapida e semplice alla creazione di un repository](https://www.youtube.com/watch?v=tnMfIEgs32g) - 2022-10-11
 # AWS - Amazon Web Services
+- [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [AWS Lambda - Crea il tuo primo "Hello World" in pochi minuti](https://www.youtube.com/watch?v=yzbGWNeA3hA) - 2022-11-23
 - [AWS Console: Passiamo alla "modalità oscura" in CINQUE click?](https://www.youtube.com/watch?v=atG10AtrKh8) - 2022-10-24
 - [Amazon Lightsail - Concetto di Scalabilità  ( Parte 4 ) [ AWS ]](https://www.youtube.com/watch?v=Lw5YHF5RyV4) - 2022-10-06
@@ -29,4 +31,4 @@
 - [Amazon Lightsail - Ottieni la tua password WordPress giusta la prima volta ( Parte 2 ) [ AWS ]](https://www.youtube.com/watch?v=rvlN76UDpSM) - 2022-09-14
 - [Amazon Lightsail - Il modo più semplice per installare WordPress! ( Parte 1 ) [ AWS ]](https://www.youtube.com/watch?v=c-FlCzGBpx0) - 2022-09-07
 ### Last Update
-2023-01-27 18:23:35 UTC
+2023-02-08 19:46:03 UTC
