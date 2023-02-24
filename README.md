@@ -31,7 +31,9 @@
 - [Amazon Lightsail - Ottieni la tua password WordPress giusta la prima volta ( Parte 2 ) [ AWS ]](https://www.youtube.com/watch?v=rvlN76UDpSM) - 2022-09-14
 - [Amazon Lightsail - Il modo più semplice per installare WordPress! ( Parte 1 ) [ AWS ]](https://www.youtube.com/watch?v=c-FlCzGBpx0) - 2022-09-07
 # Cloud Architecture
+- [Terraform   IaC   Infrastructure as Code](https://www.youtube.com/watch?v=ITO7CRO_R9c) - 2023-02-22
 - [Automatizzare il tuo business: Trigger & Serverless](https://www.youtube.com/watch?v=xjq46_ScKso) - 2023-02-15
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
+- [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 ### Last Update
-2023-02-16 07:08:44 UTC
+2023-02-24 07:04:28 UTC
