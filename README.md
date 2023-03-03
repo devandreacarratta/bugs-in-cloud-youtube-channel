@@ -2,12 +2,14 @@
 - [AndreaCarratta@Linkedin](https://links.devandreacarratta.it/linkedin)
 - [AndreaCarratta@YouTube](https://links.devandreacarratta.it/youtube)
 # Azure Portal
+- [Visual Studio Code Crea le tue Azure Function alla velocità della luce](https://www.youtube.com/watch?v=yF6IvBqECog) - 2023-03-01
 - [Azure resource groups: dalla teoria alla realtà!](https://www.youtube.com/watch?v=VuXP6TUEu_8) - 2022-12-07
 - [Azure Data Factory: Pipeline & Global Parameters](https://www.youtube.com/watch?v=i0tOe9HTjcc) - 2022-11-08
 - [Azure Data Factory - Sono necessari solo due minuti per crearlo!](https://www.youtube.com/watch?v=AiSDpbvLsBY) - 2022-10-04
 - [Azure SQL Server - Mantieni i tuoi dati sotto chiave con la configurazione del firewall](https://www.youtube.com/watch?v=xdTwrayAbso) - 2022-09-27
 - [Azure SQL Server - Creazione Database](https://www.youtube.com/watch?v=Gqsyk2EcQeA) - 2022-09-20
 # Developer Life
+- [Visual Studio Code Crea le tue Azure Function alla velocità della luce](https://www.youtube.com/watch?v=yF6IvBqECog) - 2023-03-01
 - [GitHub e Webhook: monitora il tuo repository con facilità!](https://www.youtube.com/watch?v=-Z2w8tCIJ4A) - 2023-01-30
 - [GitHub: la shortcut per dev per semplificare la tua vita](https://www.youtube.com/watch?v=w02697ngTAk) - 2023-01-25
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
@@ -36,4 +38,4 @@
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 ### Last Update
-2023-02-24 07:04:28 UTC
+2023-03-03 09:37:37 UTC
