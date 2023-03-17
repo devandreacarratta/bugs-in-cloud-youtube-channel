@@ -2,6 +2,7 @@
 - [AndreaCarratta@Linkedin](https://links.devandreacarratta.it/linkedin)
 - [AndreaCarratta@YouTube](https://links.devandreacarratta.it/youtube)
 # Azure Portal
+- [Azure Application Insights   Come crearlo](https://www.youtube.com/watch?v=WR9aVMMOmVA) - 2023-03-15
 - [Visual Studio Code Crea le tue Azure Function alla velocità della luce](https://www.youtube.com/watch?v=yF6IvBqECog) - 2023-03-01
 - [Azure resource groups: dalla teoria alla realtà!](https://www.youtube.com/watch?v=VuXP6TUEu_8) - 2022-12-07
 - [Azure Data Factory: Pipeline & Global Parameters](https://www.youtube.com/watch?v=i0tOe9HTjcc) - 2022-11-08
@@ -25,6 +26,7 @@
 - [CRON gratuiti (o quasi) sfruttando le GitHub Actions? Ecco come!](https://www.youtube.com/watch?v=1N3KpQDqYAU) - 2022-10-17
 - [Github - Guida rapida e semplice alla creazione di un repository](https://www.youtube.com/watch?v=tnMfIEgs32g) - 2022-10-11
 # AWS - Amazon Web Services
+- [Terraform   AWS   Creazione Static Web Site S3](https://www.youtube.com/watch?v=UNdvAWp23PE) - 2023-03-08
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [AWS Lambda - Crea il tuo primo "Hello World" in pochi minuti](https://www.youtube.com/watch?v=yzbGWNeA3hA) - 2022-11-23
 - [AWS Console: Passiamo alla "modalità oscura" in CINQUE click?](https://www.youtube.com/watch?v=atG10AtrKh8) - 2022-10-24
@@ -33,9 +35,10 @@
 - [Amazon Lightsail - Ottieni la tua password WordPress giusta la prima volta ( Parte 2 ) [ AWS ]](https://www.youtube.com/watch?v=rvlN76UDpSM) - 2022-09-14
 - [Amazon Lightsail - Il modo più semplice per installare WordPress! ( Parte 1 ) [ AWS ]](https://www.youtube.com/watch?v=c-FlCzGBpx0) - 2022-09-07
 # Cloud Architecture
+- [Terraform   AWS   Creazione Static Web Site S3](https://www.youtube.com/watch?v=UNdvAWp23PE) - 2023-03-08
 - [Terraform   IaC   Infrastructure as Code](https://www.youtube.com/watch?v=ITO7CRO_R9c) - 2023-02-22
 - [Automatizzare il tuo business: Trigger & Serverless](https://www.youtube.com/watch?v=xjq46_ScKso) - 2023-02-15
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 ### Last Update
-2023-03-03 09:37:37 UTC
+2023-03-17 06:37:02 UTC
