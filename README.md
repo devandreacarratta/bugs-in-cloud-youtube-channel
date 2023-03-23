@@ -25,6 +25,7 @@
 - [Visual Studio Code - Testa facilmente le tue REST API grazie a questa estensione!](https://www.youtube.com/watch?v=9x9vpFHgQck) - 2022-10-28
 - [GitHub Actions & SECRETS: Come mantenere al sicuro le tue credenziali!](https://www.youtube.com/watch?v=3-FiPqeZKtQ) - 2022-10-26
 - [CRON gratuiti (o quasi) sfruttando le GitHub Actions? Ecco come!](https://www.youtube.com/watch?v=1N3KpQDqYAU) - 2022-10-17
+- [Github - Guida rapida e semplice alla creazione di un repository](https://www.youtube.com/watch?v=tnMfIEgs32g) - 2022-10-11
 # AWS - Amazon Web Services
 - [Terraform   AWS   Creazione Static Web Site S3](https://www.youtube.com/watch?v=UNdvAWp23PE) - 2023-03-08
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
