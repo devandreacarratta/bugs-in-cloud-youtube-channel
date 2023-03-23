@@ -10,6 +10,7 @@
 - [Azure SQL Server - Mantieni i tuoi dati sotto chiave con la configurazione del firewall](https://www.youtube.com/watch?v=xdTwrayAbso) - 2022-09-27
 - [Azure SQL Server - Creazione Database](https://www.youtube.com/watch?v=Gqsyk2EcQeA) - 2022-09-20
 # Developer Life
+- [Visual Studio Code: come esplorare visualmente i tuoi contenuti Json!](https://www.youtube.com/watch?v=UtabHGL-CVc) - 2023-03-22
 - [Visual Studio Code Crea le tue Azure Function alla velocità della luce](https://www.youtube.com/watch?v=yF6IvBqECog) - 2023-03-01
 - [GitHub e Webhook: monitora il tuo repository con facilità!](https://www.youtube.com/watch?v=-Z2w8tCIJ4A) - 2023-01-30
 - [GitHub: la shortcut per dev per semplificare la tua vita](https://www.youtube.com/watch?v=w02697ngTAk) - 2023-01-25
@@ -24,7 +25,6 @@
 - [Visual Studio Code - Testa facilmente le tue REST API grazie a questa estensione!](https://www.youtube.com/watch?v=9x9vpFHgQck) - 2022-10-28
 - [GitHub Actions & SECRETS: Come mantenere al sicuro le tue credenziali!](https://www.youtube.com/watch?v=3-FiPqeZKtQ) - 2022-10-26
 - [CRON gratuiti (o quasi) sfruttando le GitHub Actions? Ecco come!](https://www.youtube.com/watch?v=1N3KpQDqYAU) - 2022-10-17
-- [Github - Guida rapida e semplice alla creazione di un repository](https://www.youtube.com/watch?v=tnMfIEgs32g) - 2022-10-11
 # AWS - Amazon Web Services
 - [Terraform   AWS   Creazione Static Web Site S3](https://www.youtube.com/watch?v=UNdvAWp23PE) - 2023-03-08
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
@@ -41,4 +41,4 @@
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 ### Last Update
-2023-03-17 06:37:02 UTC
+2023-03-23 17:39:08 UTC
