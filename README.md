@@ -2,6 +2,7 @@
 - [AndreaCarratta@Linkedin](https://links.devandreacarratta.it/linkedin)
 - [AndreaCarratta@YouTube](https://links.devandreacarratta.it/youtube)
 # Azure Portal
+- [Azure SQL Server: come resettare la password?](https://www.youtube.com/watch?v=_-vVJqmQjbA) - 2023-04-05
 - [Azure Application Insights   Come crearlo](https://www.youtube.com/watch?v=WR9aVMMOmVA) - 2023-03-15
 - [Visual Studio Code Crea le tue Azure Function alla velocità della luce](https://www.youtube.com/watch?v=yF6IvBqECog) - 2023-03-01
 - [Azure resource groups: dalla teoria alla realtà!](https://www.youtube.com/watch?v=VuXP6TUEu_8) - 2022-12-07
@@ -43,4 +44,4 @@
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 ### Last Update
-2023-04-02 07:32:14 UTC
+2023-04-06 18:26:44 UTC
