@@ -2,6 +2,7 @@
 - [AndreaCarratta@Linkedin](https://links.devandreacarratta.it/linkedin)
 - [AndreaCarratta@YouTube](https://links.devandreacarratta.it/youtube)
 # Azure Portal
+- [Azure Static Web Apps: creala in pochi click con VScode!](https://www.youtube.com/watch?v=9laymc-ZipY) - 2023-04-19
 - [Azure SQL Server: come resettare la password?](https://www.youtube.com/watch?v=_-vVJqmQjbA) - 2023-04-05
 - [Azure Application Insights   Come crearlo](https://www.youtube.com/watch?v=WR9aVMMOmVA) - 2023-03-15
 - [Visual Studio Code Crea le tue Azure Function alla velocità della luce](https://www.youtube.com/watch?v=yF6IvBqECog) - 2023-03-01
@@ -11,6 +12,8 @@
 - [Azure SQL Server - Mantieni i tuoi dati sotto chiave con la configurazione del firewall](https://www.youtube.com/watch?v=xdTwrayAbso) - 2022-09-27
 - [Azure SQL Server - Creazione Database](https://www.youtube.com/watch?v=Gqsyk2EcQeA) - 2022-09-20
 # Developer Life
+- [AWS Lambda: vai online con VSCode!](https://www.youtube.com/watch?v=1YNFimrr6vk) - 2023-04-26
+- [Azure Static Web Apps: creala in pochi click con VScode!](https://www.youtube.com/watch?v=9laymc-ZipY) - 2023-04-19
 - [Azure Data Studio - Come importare CSV in SQL Server](https://www.youtube.com/watch?v=a5Is-3gYkVk) - 2023-04-12
 - [Azure Data Studio: come utilizzare una MySQL Connection](https://www.youtube.com/watch?v=xqQvOpIfyd0) - 2023-03-29
 - [Visual Studio Code: come esplorare visualmente i tuoi contenuti Json!](https://www.youtube.com/watch?v=UtabHGL-CVc) - 2023-03-22
@@ -30,6 +33,7 @@
 - [CRON gratuiti (o quasi) sfruttando le GitHub Actions? Ecco come!](https://www.youtube.com/watch?v=1N3KpQDqYAU) - 2022-10-17
 - [Github - Guida rapida e semplice alla creazione di un repository](https://www.youtube.com/watch?v=tnMfIEgs32g) - 2022-10-11
 # AWS - Amazon Web Services
+- [AWS Lambda: vai online con VSCode!](https://www.youtube.com/watch?v=1YNFimrr6vk) - 2023-04-26
 - [Terraform   AWS   Creazione Static Web Site S3](https://www.youtube.com/watch?v=UNdvAWp23PE) - 2023-03-08
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [AWS Lambda - Crea il tuo primo "Hello World" in pochi minuti](https://www.youtube.com/watch?v=yzbGWNeA3hA) - 2022-11-23
@@ -45,4 +49,4 @@
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 ### Last Update
-2023-04-13 05:34:02 UTC
+2023-04-28 05:58:47 UTC
