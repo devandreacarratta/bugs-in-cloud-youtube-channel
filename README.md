@@ -2,6 +2,7 @@
 - [AndreaCarratta@Linkedin](https://links.devandreacarratta.it/linkedin)
 - [AndreaCarratta@YouTube](https://links.devandreacarratta.it/youtube)
 # Azure Portal
+- [GitHub: Azure Static App Build & Deploy](https://www.youtube.com/watch?v=MTlvG2p8ogo) - 2023-05-17
 - [Azure Static Web Apps: creala in pochi click con VScode!](https://www.youtube.com/watch?v=9laymc-ZipY) - 2023-04-19
 - [Azure SQL Server: come resettare la password?](https://www.youtube.com/watch?v=_-vVJqmQjbA) - 2023-04-05
 - [Azure Application Insights   Come crearlo](https://www.youtube.com/watch?v=WR9aVMMOmVA) - 2023-03-15
@@ -12,6 +13,8 @@
 - [Azure SQL Server - Mantieni i tuoi dati sotto chiave con la configurazione del firewall](https://www.youtube.com/watch?v=xdTwrayAbso) - 2022-09-27
 - [Azure SQL Server - Creazione Database](https://www.youtube.com/watch?v=Gqsyk2EcQeA) - 2022-09-20
 # Developer Life
+- [GitHub: Azure Static App Build & Deploy](https://www.youtube.com/watch?v=MTlvG2p8ogo) - 2023-05-17
+- [VS Code: Come non perdere annotazioni nel proprio codice sorgente](https://www.youtube.com/watch?v=vmF4mKCp-kc) - 2023-05-10
 - [AWS Lambda: vai online con VSCode!](https://www.youtube.com/watch?v=1YNFimrr6vk) - 2023-04-26
 - [Azure Static Web Apps: creala in pochi click con VScode!](https://www.youtube.com/watch?v=9laymc-ZipY) - 2023-04-19
 - [Azure Data Studio - Come importare CSV in SQL Server](https://www.youtube.com/watch?v=a5Is-3gYkVk) - 2023-04-12
@@ -25,13 +28,6 @@
 - [Visual Studio Code:  come trasformare un JSON in TYPESCRIPT - Facile e veloce!](https://www.youtube.com/watch?v=Kpk_6uPayGE) - 2022-11-29
 - [GitHub: Importazione del repository da Azure DevOps in meno di 2 minuti!](https://www.youtube.com/watch?v=Owu4QknmCn8) - 2022-11-17
 - [Visual Studio Code: Dì addio ai file di testo disordinati con questa estensione!](https://www.youtube.com/watch?v=XQh44uxLKwA) - 2022-11-15
-- [GitHub Actions: il potere di Python nelle tue mani](https://www.youtube.com/watch?v=2Yr6leD7il0) - 2022-11-10
-- [Visual Studio Code: Trasforma i tuoi JSON in codice sorgente](https://www.youtube.com/watch?v=WpP2MLDa-_I) - 2022-11-04
-- [Visual Studio Code: Semplifica la tua vita creando Snippets in maniera intuitiva](https://www.youtube.com/watch?v=uUzzZKS-xOw) - 2022-11-02
-- [Visual Studio Code - Testa facilmente le tue REST API grazie a questa estensione!](https://www.youtube.com/watch?v=9x9vpFHgQck) - 2022-10-28
-- [GitHub Actions & SECRETS: Come mantenere al sicuro le tue credenziali!](https://www.youtube.com/watch?v=3-FiPqeZKtQ) - 2022-10-26
-- [CRON gratuiti (o quasi) sfruttando le GitHub Actions? Ecco come!](https://www.youtube.com/watch?v=1N3KpQDqYAU) - 2022-10-17
-- [Github - Guida rapida e semplice alla creazione di un repository](https://www.youtube.com/watch?v=tnMfIEgs32g) - 2022-10-11
 # AWS - Amazon Web Services
 - [AWS Lambda: vai online con VSCode!](https://www.youtube.com/watch?v=1YNFimrr6vk) - 2023-04-26
 - [Terraform   AWS   Creazione Static Web Site S3](https://www.youtube.com/watch?v=UNdvAWp23PE) - 2023-03-08
@@ -49,4 +45,4 @@
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 ### Last Update
-2023-04-28 05:58:47 UTC
+2023-05-20 11:08:27 UTC
