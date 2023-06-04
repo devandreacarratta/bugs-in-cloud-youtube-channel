@@ -37,6 +37,7 @@
 - [CRON gratuiti (o quasi) sfruttando le GitHub Actions? Ecco come!](https://www.youtube.com/watch?v=1N3KpQDqYAU) - 2022-10-17
 - [Github - Guida rapida e semplice alla creazione di un repository](https://www.youtube.com/watch?v=tnMfIEgs32g) - 2022-10-11
 # AWS - Amazon Web Services
+- [AWS  DynamoDB: memorizza i tuoi primi dati su Cloud!](https://www.youtube.com/watch?v=2AoAWWnpCoU) - 2023-05-31
 - [AWS Lambda: vai online con VSCode!](https://www.youtube.com/watch?v=1YNFimrr6vk) - 2023-04-26
 - [Terraform   AWS   Creazione Static Web Site S3](https://www.youtube.com/watch?v=UNdvAWp23PE) - 2023-03-08
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
