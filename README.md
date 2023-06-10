@@ -13,6 +13,7 @@
 - [Azure SQL Server - Mantieni i tuoi dati sotto chiave con la configurazione del firewall](https://www.youtube.com/watch?v=xdTwrayAbso) - 2022-09-27
 - [Azure SQL Server - Creazione Database](https://www.youtube.com/watch?v=Gqsyk2EcQeA) - 2022-09-20
 # Developer Life
+- [Visual Studio Code: Diamo un tocco di colore al codice?](https://www.youtube.com/watch?v=ntqvzgo59Pw) - 2023-06-07
 - [Visual Studio Code: Sei pronto ad usare Postman?](https://www.youtube.com/watch?v=6JE3bU0EfUI) - 2023-05-24
 - [GitHub: Azure Static App Build & Deploy](https://www.youtube.com/watch?v=MTlvG2p8ogo) - 2023-05-17
 - [VS Code: Come non perdere annotazioni nel proprio codice sorgente](https://www.youtube.com/watch?v=vmF4mKCp-kc) - 2023-05-10
@@ -54,4 +55,4 @@
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 ### Last Update
-2023-06-04 15:38:23 UTC
+2023-06-10 14:14:19 UTC
