@@ -13,6 +13,9 @@
 - [Azure SQL Server - Mantieni i tuoi dati sotto chiave con la configurazione del firewall](https://www.youtube.com/watch?v=xdTwrayAbso) - 2022-09-27
 - [Azure SQL Server - Creazione Database](https://www.youtube.com/watch?v=Gqsyk2EcQeA) - 2022-09-20
 # Developer Life
+- [GitHub Templates: Il segreto per la creazione rapida di un repository GitHub!](https://www.youtube.com/watch?v=lk_oNzVOU8I) - 2023-07-05
+- [Visual Studio Code: Crea diagrammi professionali con Draw.io](https://www.youtube.com/watch?v=O-Z6Shn9gKA) - 2023-06-28
+- [Amazon CodeWhisperer: Il potente generatore di codice AI per VS Code](https://www.youtube.com/watch?v=6VPO__U6elg) - 2023-06-21
 - [Visual Studio Code: Diamo un tocco di colore al codice?](https://www.youtube.com/watch?v=ntqvzgo59Pw) - 2023-06-07
 - [Visual Studio Code: Sei pronto ad usare Postman?](https://www.youtube.com/watch?v=6JE3bU0EfUI) - 2023-05-24
 - [GitHub: Azure Static App Build & Deploy](https://www.youtube.com/watch?v=MTlvG2p8ogo) - 2023-05-17
@@ -38,6 +41,8 @@
 - [CRON gratuiti (o quasi) sfruttando le GitHub Actions? Ecco come!](https://www.youtube.com/watch?v=1N3KpQDqYAU) - 2022-10-17
 - [Github - Guida rapida e semplice alla creazione di un repository](https://www.youtube.com/watch?v=tnMfIEgs32g) - 2022-10-11
 # AWS - Amazon Web Services
+- [Amazon CodeWhisperer: Il potente generatore di codice AI per VS Code](https://www.youtube.com/watch?v=6VPO__U6elg) - 2023-06-21
+- [AWS DynamoDB: Guida all'importazione di un CSV da S3 Bucket](https://www.youtube.com/watch?v=XwqFTXrBIGQ) - 2023-06-14
 - [AWS  DynamoDB: memorizza i tuoi primi dati su Cloud!](https://www.youtube.com/watch?v=2AoAWWnpCoU) - 2023-05-31
 - [AWS Lambda: vai online con VSCode!](https://www.youtube.com/watch?v=1YNFimrr6vk) - 2023-04-26
 - [Terraform   AWS   Creazione Static Web Site S3](https://www.youtube.com/watch?v=UNdvAWp23PE) - 2023-03-08
@@ -55,4 +60,4 @@
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 ### Last Update
-2023-06-10 14:14:19 UTC
+2023-07-07 15:31:01 UTC
