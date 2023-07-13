@@ -13,6 +13,7 @@
 - [Azure SQL Server - Mantieni i tuoi dati sotto chiave con la configurazione del firewall](https://www.youtube.com/watch?v=xdTwrayAbso) - 2022-09-27
 - [Azure SQL Server - Creazione Database](https://www.youtube.com/watch?v=Gqsyk2EcQeA) - 2022-09-20
 # Developer Life
+- [Visual Studio Code: Rinomina i file da vero PRO!](https://www.youtube.com/watch?v=5_KZMqKHGvk) - 2023-07-12
 - [GitHub Templates: Il segreto per la creazione rapida di un repository GitHub!](https://www.youtube.com/watch?v=lk_oNzVOU8I) - 2023-07-05
 - [Visual Studio Code: Crea diagrammi professionali con Draw.io](https://www.youtube.com/watch?v=O-Z6Shn9gKA) - 2023-06-28
 - [Amazon CodeWhisperer: Il potente generatore di codice AI per VS Code](https://www.youtube.com/watch?v=6VPO__U6elg) - 2023-06-21
@@ -60,4 +61,4 @@
 - [AWS S3 Hosting Static Web Site](https://www.youtube.com/watch?v=IWM17bZ25_Q) - 2023-02-08
 - [GitHub Pages & Static Site](https://www.youtube.com/watch?v=jytEtjRNBsI) - 2023-01-11
 ### Last Update
-2023-07-07 15:31:01 UTC
+2023-07-13 18:00:40 UTC
